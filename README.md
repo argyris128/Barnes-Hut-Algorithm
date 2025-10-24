@@ -1,6 +1,6 @@
 CPP:
 
-Compile: g++ ask3.cpp -ltbb (έγινε τοπικά, τα μηχανήματα σχολής δεν έχουν tbb)
+Compile: g++ ask3.cpp -ltbb
 
 Run: ./a.out <input.txt> <output.txt> <num of loops> <num of threads>
 
